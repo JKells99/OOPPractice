@@ -1,2 +1,4 @@
-package com.keyin.entities;public class GenreTest {
+package com.keyin.entities;
+
+public class GenreTest {
 }

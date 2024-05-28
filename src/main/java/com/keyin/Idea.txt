@@ -1,0 +1,13 @@
+Design basic non API Java program with the following characteristics
+
+It will have classes for the following
+    -A Videogame ( A Video is required to have a Publisher and a Genre)
+    -Genre (For The Video Game)
+    -Publisher (For The VideoGame)
+
+The attributes that you have in each class are up to you
+
+I would like to see at least 1 unit test written,,,,
+
+
+
